@@ -1,0 +1,12 @@
+streamlit>=1.28.0
+google-adk>=1.17.0
+google-generativeai>=0.8.0
+pandas>=2.0.0
+pypdf>=4.0.0
+python-docx>=1.1.0
+python-dotenv>=1.0.0
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+# Note: SQLite is built into Python, no additional package needed
+# The following are not directly imported but are good practice for this app
+# pytest # If you plan to run automated tests
