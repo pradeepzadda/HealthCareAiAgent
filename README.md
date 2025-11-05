@@ -9,7 +9,7 @@ The Auto Test Agent is an AI-powered application built with the Google Agent Dev
 - Utilizes Google's Generative AI models (`google-generativeai`).
 - Document processing for PDF (`pypdf`) and Word (`python-docx`).
 - Data analysis capabilities with `pandas`.
-- Local SQLite database for session data persistence.
+- Local SQLite database for session data persistence..
 
 ## Prerequisites
 
