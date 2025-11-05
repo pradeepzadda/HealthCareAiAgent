@@ -43,4 +43,4 @@ Thumbs.db
 # Streamlit
 .streamlit/
 rag_db/
-
+logs/
