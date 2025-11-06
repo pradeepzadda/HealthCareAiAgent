@@ -61,7 +61,7 @@ streamlit run app.py
 
 The application will be available at `http://localhost:8501`.
 
-## Deployment
+## Deployment.
 
 You can deploy this agent to Google Cloud using the ADK CLI. The following command deploys the agent as a web app to Cloud Run.
 
