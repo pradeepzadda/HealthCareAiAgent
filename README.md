@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed:
 
 You will also need a Google Cloud project with Vertex AI API enabled (for ADK and Gemini models).
 
-## Installation
+## Installation.
 
 1.  **Clone the repository:**
     ```bash
